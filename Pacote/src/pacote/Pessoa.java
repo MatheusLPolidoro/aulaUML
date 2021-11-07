@@ -17,5 +17,6 @@ public class Pessoa {
     public void mostraDados() {
             JOptionPane.showMessageDialog(null, "RELATÓRIO: \n"
                     + "NOME: " + nome + "\n\nEm " + anoCalculo + "SUA UDADE SERÁ: " + idade);
+                    
     }
 }	

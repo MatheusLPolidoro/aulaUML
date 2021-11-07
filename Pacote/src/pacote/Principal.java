@@ -8,5 +8,6 @@ public class Principal {
         obj.recebeDados();
         obj.calculaIdade();
         obj.mostraDados();
+        
     }
 }
